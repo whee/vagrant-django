@@ -1,6 +1,9 @@
 [submodule "puppet/modules/stdlib"]
 	path = puppet/modules/stdlib
 	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "puppet/modules/nginx"]
+	path = puppet/modules/nginx
+	url = https://github.com/whee/puppetlabs-nginx.git
 [submodule "puppet/modules/postgresql"]
 	path = puppet/modules/postgresql
 	url = https://github.com/whee/puppet-postgresql.git
